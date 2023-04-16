@@ -1,6 +1,5 @@
 import requests
 import re
-from sys import stdout
 
 def searchUrls(text):
     urls_list = []
