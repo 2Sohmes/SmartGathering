@@ -1,3 +1,3 @@
 # SmartGathering
 
-Uma simples ferramenta para Information Gathering voltada a CTFs.
+Uma simples ferramenta para Information Gathering voltada para CTFs.
